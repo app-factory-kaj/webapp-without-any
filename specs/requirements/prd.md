@@ -36,3 +36,4 @@ See [Product-wide](product-wide.md) for the rules that shape the whole product
 - Server-side storage or a database of any kind.
 - Syncing or carrying the list across devices or browsers.
 - Categories, tags, boards, or projects — one flat list only.
+
