@@ -1,0 +1,14 @@
+{
+  "name": "todo-webapp",
+  "type": "web-application",
+  "version": "0.1.0",
+  "language": "TypeScript",
+  "buildpack": "docker",
+  "appPath": "todo-webapp",
+  "entrypoint": "deployment/web-application",
+  "exposure": "internet",
+  "dependencies": [],
+  "description": "A single-page todo list app. A visitor adds, completes, and deletes short text todos in one flat list. There is no sign-in and no backend: all data is read from and written to the browser's own local storage, so the app has no server-side API and no database. Does not support editing a todo's text, filtering by status, bulk-clearing completed items, or any multi-user or cross-device sync.",
+  "stories": ["F1.1", "F1.2", "F1.3", "F1.4", "F1.5"],
+  "skillsPinned": ["wireframes", "react-webapp", "oxygen-ui-design-system"]
+}
