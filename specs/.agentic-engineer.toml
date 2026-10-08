@@ -1,0 +1,4 @@
+apiVersion = "agentic-engineer/v1"
+name = "webapp-without-any"
+createdAt = "2026-10-08T14:00:23Z"
+idea = "a simple webapp without any authentication or database persistance"
